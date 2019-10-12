@@ -17,7 +17,7 @@ class GuessingGame {
     }
 
     greater() {
-
+        this.min = this.average
     }
 }
 
